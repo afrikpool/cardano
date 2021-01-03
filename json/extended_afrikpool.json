@@ -1,11 +1,11 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/afrikpool/cardano/raw/master/img/afrik_64x64.png",
-        "url_png_logo": "https://github.com/afrikpool/cardano/raw/master/img/afrik_64x64.png",
+        "url_png_icon_64x64": "https://git.io/JLdfl",
+        "url_png_logo": "https://git.io/JLdfl",
         "social": {
             "twitter_handle": "Cardano_Afrik"
         },
         "about": {
-            "me": "Supports African charities by donating 20% of our margin fee every month. Your delegation will help us to increase our donations"
+            "me": "Supports African charities by donating 20% of our margin fee. Your delegation will help us to increase our monthly donation. More details on our website"
         }
 }
